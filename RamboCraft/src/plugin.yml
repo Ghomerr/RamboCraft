@@ -1,0 +1,9 @@
+name: RamboCraft
+main: com.ghomerr.rambocraft.RamboCraft
+version: 0.1 [1.1-R4]
+author: Ghomerr
+description: Fun game 1 player vs others based on the RamboMatch mode from the famous game named "Soldat".
+commands:
+ rambocraft:
+  description: master command of this plugin
+  aliases: rc
